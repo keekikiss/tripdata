@@ -1,0 +1,1001 @@
+user_id,hometown
+0001,Phrae
+0002,Pathum Thani
+0003,Ratchaburi
+0004,Chai Nat
+0005,Phrae
+0006,Nakhon Pathom
+0007,Bangkok
+0008,Samut Prakan
+0009,Lamphun
+0010,Chiang Mai
+0011,Bangkok
+0012,Nonthaburi
+0013,Bangkok
+0014,Pathum Thani
+0015,Chachoengsao
+0016,Chiang Mai
+0017,Bangkok
+0018,Bangkok
+0019,Bangkok
+0020,Ratchaburi
+0021,Chachoengsao
+0022,Bangkok
+0023,Chon Buri
+0024,Chiang Mai
+0025,Samut Prakan
+0026,Bangkok
+0027,Chachoengsao
+0028,Phichit
+0029,Samut Prakan
+0030,Phetchaburi
+0031,Bangkok
+0032,Nonthaburi
+0033,Bangkok
+0034,Phitsanulok
+0035,Pathum Thani
+0036,Samut Prakan
+0037,Phitsanulok
+0038,Samut Prakan
+0039,Nonthaburi
+0040,Bangkok
+0041,Bangkok
+0042,Bangkok
+0043,Phrae
+0044,Bangkok
+0045,Ratchaburi
+0046,Bangkok
+0047,Bangkok
+0048,Ratchaburi
+0049,Bangkok
+0050,Phetchaburi
+0051,Bangkok
+0052,Bangkok
+0053,Chon Buri
+0054,Bangkok
+0055,Nonthaburi
+0056,Nonthaburi
+0057,Chanthaburi
+0058,Bangkok
+0059,Bangkok
+0060,Samut Prakan
+0061,Sukhothai
+0062,Pathum Thani
+0063,Bangkok
+0064,Bangkok
+0065,Phayao
+0066,Kanchanaburi
+0067,Nakhon Pathom
+0068,Phra Nakhon Si Ayutthaya
+0069,Bangkok
+0070,Nonthaburi
+0071,Bangkok
+0072,Bangkok
+0073,Bangkok
+0074,Nakhon Sawan
+0075,Chanthaburi
+0076,Bangkok
+0077,Nakhon Pathom
+0078,Nakhon Sawan
+0079,Bangkok
+0080,Bangkok
+0081,Samut Songkhram
+0082,Bangkok
+0083,Phetchaburi
+0084,Bangkok
+0085,Phetchaburi
+0086,Phitsanulok
+0087,Saraburi
+0088,Saraburi
+0089,Samut Songkhram
+0090,Bangkok
+0091,Chon Buri
+0092,Chiang Rai
+0093,Chiang Mai
+0094,Bangkok
+0095,Chiang Rai
+0096,Bangkok
+0097,Bangkok
+0098,Samut Prakan
+0099,Chiang Mai
+0100,Bangkok
+0101,Nonthaburi
+0102,Phayao
+0103,Nakhon Pathom
+0104,Lampang
+0105,Bangkok
+0106,Bangkok
+0107,Bangkok
+0108,Bangkok
+0109,Bangkok
+0110,Chachoengsao
+0111,Chanthaburi
+0112,Bangkok
+0113,Phra Nakhon Si Ayutthaya
+0114,Lampang
+0115,Nakhon Pathom
+0116,Sukhothai
+0117,Nakhon Sawan
+0118,Nonthaburi
+0119,Bangkok
+0120,Samut Sakhon
+0121,Phitsanulok
+0122,Chachoengsao
+0123,Phrae
+0124,Bangkok
+0125,Bangkok
+0126,Pathum Thani
+0127,Pathum Thani
+0128,Bangkok
+0129,Chanthaburi
+0130,Chiang Mai
+0131,Nakhon Pathom
+0132,Chiang Mai
+0133,Bangkok
+0134,Bangkok
+0135,Saraburi
+0136,Bangkok
+0137,Pathum Thani
+0138,Ratchaburi
+0139,Bangkok
+0140,Samut Prakan
+0141,Samut Prakan
+0142,Samut Songkhram
+0143,Kanchanaburi
+0144,Bangkok
+0145,Chiang Mai
+0146,Chon Buri
+0147,Chai Nat
+0148,Bangkok
+0149,Bangkok
+0150,Kanchanaburi
+0151,Bangkok
+0152,Bangkok
+0153,Chiang Mai
+0154,Chachoengsao
+0155,Phitsanulok
+0156,Chachoengsao
+0157,Bangkok
+0158,Nonthaburi
+0159,Pathum Thani
+0160,Samut Prakan
+0161,Pathum Thani
+0162,Bangkok
+0163,Ang Thong
+0164,Phrae
+0165,Bangkok
+0166,Bangkok
+0167,Nakhon Pathom
+0168,Bangkok
+0169,Bangkok
+0170,Bangkok
+0171,Bangkok
+0172,Chanthaburi
+0173,Samut Prakan
+0174,Suphan Buri
+0175,Sing Buri
+0176,Bangkok
+0177,Bangkok
+0178,Nonthaburi
+0179,Suphan Buri
+0180,Chon Buri
+0181,Chiang Rai
+0182,Chiang Mai
+0183,Lampang
+0184,Lampang
+0185,Bangkok
+0186,Ratchaburi
+0187,Bangkok
+0188,Chachoengsao
+0189,Bangkok
+0190,Chon Buri
+0191,Bangkok
+0192,Bangkok
+0193,Samut Prakan
+0194,Ratchaburi
+0195,Saraburi
+0196,Samut Prakan
+0197,Lampang
+0198,Bangkok
+0199,Bangkok
+0200,Nakhon Sawan
+0201,Chachoengsao
+0202,Bangkok
+0203,Bangkok
+0204,Lamphun
+0205,Bangkok
+0206,Bangkok
+0207,Chiang Rai
+0208,Chiang Mai
+0209,Pathum Thani
+0210,Bangkok
+0211,Pathum Thani
+0212,Nakhon Pathom
+0213,Pathum Thani
+0214,Samut Prakan
+0215,Chiang Mai
+0216,Bangkok
+0217,Bangkok
+0218,Kanchanaburi
+0219,Bangkok
+0220,Pathum Thani
+0221,Bangkok
+0222,Bangkok
+0223,Bangkok
+0224,Bangkok
+0225,Bangkok
+0226,Nakhon Pathom
+0227,Bangkok
+0228,Chon Buri
+0229,Ang Thong
+0230,Bangkok
+0231,Bangkok
+0232,Nonthaburi
+0233,Nonthaburi
+0234,Chon Buri
+0235,Bangkok
+0236,Chiang Mai
+0237,Bangkok
+0238,Samut Prakan
+0239,Phitsanulok
+0240,Lampang
+0241,Bangkok
+0242,Bangkok
+0243,Bangkok
+0244,Bangkok
+0245,Lamphun
+0246,Nonthaburi
+0247,Bangkok
+0248,Bangkok
+0249,Bangkok
+0250,Bangkok
+0251,Samut Sakhon
+0252,Nakhon Sawan
+0253,Bangkok
+0254,Bangkok
+0255,Bangkok
+0256,Phetchaburi
+0257,Samut Prakan
+0258,Samut Prakan
+0259,Chiang Mai
+0260,Suphan Buri
+0261,Bangkok
+0262,Nakhon Pathom
+0263,Sukhothai
+0264,Bangkok
+0265,Bangkok
+0266,Ang Thong
+0267,Nakhon Pathom
+0268,Bangkok
+0269,Bangkok
+0270,Bangkok
+0271,Bangkok
+0272,Bangkok
+0273,Chon Buri
+0274,Bangkok
+0275,Sukhothai
+0276,Bangkok
+0277,Bangkok
+0278,Ratchaburi
+0279,Bangkok
+0280,Bangkok
+0281,Bangkok
+0282,Bangkok
+0283,Chiang Mai
+0284,Bangkok
+0285,Phetchaburi
+0286,Bangkok
+0287,Pathum Thani
+0288,Chon Buri
+0289,Samut Prakan
+0290,Pathum Thani
+0291,Ratchaburi
+0292,Nonthaburi
+0293,Chachoengsao
+0294,Lop Buri
+0295,Bangkok
+0296,Bangkok
+0297,Phayao
+0298,Pathum Thani
+0299,Ratchaburi
+0300,Nakhon Pathom
+0301,Bangkok
+0302,Suphan Buri
+0303,Prachin Buri
+0304,Phra Nakhon Si Ayutthaya
+0305,Chiang Mai
+0306,Bangkok
+0307,Bangkok
+0308,Bangkok
+0309,Bangkok
+0310,Chiang Mai
+0311,Lamphun
+0312,Bangkok
+0313,Bangkok
+0314,Nonthaburi
+0315,Bangkok
+0316,Pathum Thani
+0317,Chachoengsao
+0318,Bangkok
+0319,Bangkok
+0320,Nonthaburi
+0321,Chon Buri
+0322,Nakhon Pathom
+0323,Pathum Thani
+0324,Bangkok
+0325,Phra Nakhon Si Ayutthaya
+0326,Sukhothai
+0327,Bangkok
+0328,Sukhothai
+0329,Pathum Thani
+0330,Nonthaburi
+0331,Bangkok
+0332,Nonthaburi
+0333,Chon Buri
+0334,Bangkok
+0335,Ratchaburi
+0336,Bangkok
+0337,Bangkok
+0338,Bangkok
+0339,Trat
+0340,Bangkok
+0341,Sukhothai
+0342,Nakhon Pathom
+0343,Bangkok
+0344,Sukhothai
+0345,Bangkok
+0346,Chiang Mai
+0347,Bangkok
+0348,Bangkok
+0349,Nakhon Sawan
+0350,Bangkok
+0351,Samut Sakhon
+0352,Nonthaburi
+0353,Chiang Mai
+0354,Bangkok
+0355,Ratchaburi
+0356,Bangkok
+0357,Bangkok
+0358,Nakhon Sawan
+0359,Bangkok
+0360,Chiang Mai
+0361,Bangkok
+0362,Chiang Mai
+0363,Chanthaburi
+0364,Sing Buri
+0365,Bangkok
+0366,Bangkok
+0367,Chachoengsao
+0368,Bangkok
+0369,Nakhon Pathom
+0370,Pathum Thani
+0371,Phitsanulok
+0372,Chiang Mai
+0373,Chon Buri
+0374,Sing Buri
+0375,Bangkok
+0376,Nonthaburi
+0377,Samut Prakan
+0378,Phichit
+0379,Suphan Buri
+0380,Sukhothai
+0381,Bangkok
+0382,Pathum Thani
+0383,Sing Buri
+0384,Kanchanaburi
+0385,Bangkok
+0386,Chiang Mai
+0387,Bangkok
+0388,Bangkok
+0389,Bangkok
+0390,Prachin Buri
+0391,Pathum Thani
+0392,Samut Prakan
+0393,Phayao
+0394,Chiang Mai
+0395,Trat
+0396,Lampang
+0397,Bangkok
+0398,Chachoengsao
+0399,Nonthaburi
+0400,Ratchaburi
+0401,Bangkok
+0402,Phayao
+0403,Chiang Rai
+0404,Bangkok
+0405,Phra Nakhon Si Ayutthaya
+0406,Bangkok
+0407,Chon Buri
+0408,Prachin Buri
+0409,Saraburi
+0410,Samut Prakan
+0411,Bangkok
+0412,Bangkok
+0413,Bangkok
+0414,Phitsanulok
+0415,Chon Buri
+0416,Chai Nat
+0417,Samut Prakan
+0418,Nonthaburi
+0419,Bangkok
+0420,Chachoengsao
+0421,Nonthaburi
+0422,Nakhon Pathom
+0423,Phra Nakhon Si Ayutthaya
+0424,Samut Prakan
+0425,Bangkok
+0426,Bangkok
+0427,Phichit
+0428,Bangkok
+0429,Bangkok
+0430,Lampang
+0431,Bangkok
+0432,Nonthaburi
+0433,Bangkok
+0434,Chiang Rai
+0435,Bangkok
+0436,Bangkok
+0437,Bangkok
+0438,Bangkok
+0439,Kanchanaburi
+0440,Bangkok
+0441,Sukhothai
+0442,Ang Thong
+0443,Phra Nakhon Si Ayutthaya
+0444,Ratchaburi
+0445,Nakhon Sawan
+0446,Ratchaburi
+0447,Pathum Thani
+0448,Bangkok
+0449,Pathum Thani
+0450,Nonthaburi
+0451,Chiang Mai
+0452,Bangkok
+0453,Chon Buri
+0454,Lampang
+0455,Bangkok
+0456,Bangkok
+0457,Bangkok
+0458,Phichit
+0459,Pathum Thani
+0460,Nonthaburi
+0461,Sing Buri
+0462,Sukhothai
+0463,Bangkok
+0464,Phrae
+0465,Chon Buri
+0466,Bangkok
+0467,Pathum Thani
+0468,Phrae
+0469,Phrae
+0470,Bangkok
+0471,Lampang
+0472,Nakhon Pathom
+0473,Lop Buri
+0474,Bangkok
+0475,Bangkok
+0476,Ratchaburi
+0477,Bangkok
+0478,Phichit
+0479,Chachoengsao
+0480,Samut Prakan
+0481,Bangkok
+0482,Ang Thong
+0483,Nakhon Pathom
+0484,Chai Nat
+0485,Phayao
+0486,Bangkok
+0487,Bangkok
+0488,Bangkok
+0489,Pathum Thani
+0490,Ratchaburi
+0491,Bangkok
+0492,Bangkok
+0493,Bangkok
+0494,Bangkok
+0495,Phayao
+0496,Bangkok
+0497,Chiang Mai
+0498,Chiang Rai
+0499,Phra Nakhon Si Ayutthaya
+0500,Chiang Mai
+0501,Samut Prakan
+0502,Chiang Mai
+0503,Bangkok
+0504,Bangkok
+0505,Phitsanulok
+0506,Chachoengsao
+0507,Bangkok
+0508,Phitsanulok
+0509,Samut Prakan
+0510,Phra Nakhon Si Ayutthaya
+0511,Bangkok
+0512,Chon Buri
+0513,Sukhothai
+0514,Phetchaburi
+0515,Bangkok
+0516,Trat
+0517,Samut Sakhon
+0518,Bangkok
+0519,Bangkok
+0520,Pathum Thani
+0521,Bangkok
+0522,Pathum Thani
+0523,Nonthaburi
+0524,Nonthaburi
+0525,Bangkok
+0526,Nonthaburi
+0527,Samut Prakan
+0528,Bangkok
+0529,Nonthaburi
+0530,Pathum Thani
+0531,Bangkok
+0532,Samut Prakan
+0533,Nonthaburi
+0534,Bangkok
+0535,Bangkok
+0536,Phrae
+0537,Bangkok
+0538,Bangkok
+0539,Prachin Buri
+0540,Nonthaburi
+0541,Sukhothai
+0542,Bangkok
+0543,Bangkok
+0544,Bangkok
+0545,Bangkok
+0546,Chiang Mai
+0547,Chai Nat
+0548,Samut Prakan
+0549,Chiang Mai
+0550,Samut Prakan
+0551,Bangkok
+0552,Bangkok
+0553,Samut Prakan
+0554,Bangkok
+0555,Bangkok
+0556,Chiang Mai
+0557,Bangkok
+0558,Bangkok
+0559,Chachoengsao
+0560,Pathum Thani
+0561,Trat
+0562,Sukhothai
+0563,Nonthaburi
+0564,Bangkok
+0565,Chon Buri
+0566,Phitsanulok
+0567,Bangkok
+0568,Bangkok
+0569,Rayong
+0570,Bangkok
+0571,Bangkok
+0572,Phra Nakhon Si Ayutthaya
+0573,Sukhothai
+0574,Ratchaburi
+0575,Chanthaburi
+0576,Nakhon Pathom
+0577,Samut Prakan
+0578,Phra Nakhon Si Ayutthaya
+0579,Nakhon Sawan
+0580,Bangkok
+0581,Bangkok
+0582,Kanchanaburi
+0583,Lampang
+0584,Chiang Rai
+0585,Samut Prakan
+0586,Chachoengsao
+0587,Ratchaburi
+0588,Bangkok
+0589,Phrae
+0590,Sukhothai
+0591,Nakhon Pathom
+0592,Bangkok
+0593,Ang Thong
+0594,Bangkok
+0595,Nakhon Pathom
+0596,Chon Buri
+0597,Chiang Mai
+0598,Bangkok
+0599,Bangkok
+0600,Samut Prakan
+0601,Nonthaburi
+0602,Lop Buri
+0603,Nakhon Pathom
+0604,Sukhothai
+0605,Sukhothai
+0606,Nakhon Pathom
+0607,Bangkok
+0608,Bangkok
+0609,Suphan Buri
+0610,Bangkok
+0611,Bangkok
+0612,Bangkok
+0613,Samut Prakan
+0614,Phrae
+0615,Bangkok
+0616,Samut Prakan
+0617,Phra Nakhon Si Ayutthaya
+0618,Pathum Thani
+0619,Chanthaburi
+0620,Bangkok
+0621,Bangkok
+0622,Sukhothai
+0623,Lampang
+0624,Lampang
+0625,Bangkok
+0626,Phetchaburi
+0627,Phichit
+0628,Bangkok
+0629,Bangkok
+0630,Bangkok
+0631,Ratchaburi
+0632,Chiang Mai
+0633,Bangkok
+0634,Bangkok
+0635,Saraburi
+0636,Chiang Rai
+0637,Bangkok
+0638,Chiang Mai
+0639,Chiang Mai
+0640,Bangkok
+0641,Lop Buri
+0642,Nakhon Pathom
+0643,Bangkok
+0644,Bangkok
+0645,Bangkok
+0646,Chachoengsao
+0647,Bangkok
+0648,Bangkok
+0649,Nakhon Pathom
+0650,Sukhothai
+0651,Phitsanulok
+0652,Samut Sakhon
+0653,Samut Prakan
+0654,Nakhon Pathom
+0655,Bangkok
+0656,Bangkok
+0657,Samut Prakan
+0658,Samut Prakan
+0659,Bangkok
+0660,Bangkok
+0661,Nakhon Pathom
+0662,Nakhon Sawan
+0663,Bangkok
+0664,Nakhon Pathom
+0665,Bangkok
+0666,Bangkok
+0667,Nonthaburi
+0668,Bangkok
+0669,Nonthaburi
+0670,Ratchaburi
+0671,Sing Buri
+0672,Bangkok
+0673,Bangkok
+0674,Samut Prakan
+0675,Bangkok
+0676,Bangkok
+0677,Bangkok
+0678,Nonthaburi
+0679,Samut Sakhon
+0680,Phra Nakhon Si Ayutthaya
+0681,Bangkok
+0682,Bangkok
+0683,Samut Prakan
+0684,Bangkok
+0685,Bangkok
+0686,Samut Prakan
+0687,Pathum Thani
+0688,Bangkok
+0689,Rayong
+0690,Chachoengsao
+0691,Nakhon Pathom
+0692,Bangkok
+0693,Nonthaburi
+0694,Bangkok
+0695,Nonthaburi
+0696,Phayao
+0697,Bangkok
+0698,Bangkok
+0699,Phitsanulok
+0700,Bangkok
+0701,Bangkok
+0702,Bangkok
+0703,Phetchaburi
+0704,Nakhon Pathom
+0705,Bangkok
+0706,Bangkok
+0707,Kanchanaburi
+0708,Bangkok
+0709,Nonthaburi
+0710,Bangkok
+0711,Nonthaburi
+0712,Pathum Thani
+0713,Bangkok
+0714,Phra Nakhon Si Ayutthaya
+0715,Nakhon Pathom
+0716,Bangkok
+0717,Samut Prakan
+0718,Samut Prakan
+0719,Samut Prakan
+0720,Samut Prakan
+0721,Bangkok
+0722,Kanchanaburi
+0723,Bangkok
+0724,Lampang
+0725,Nonthaburi
+0726,Nonthaburi
+0727,Rayong
+0728,Pathum Thani
+0729,Bangkok
+0730,Pathum Thani
+0731,Samut Prakan
+0732,Ratchaburi
+0733,Chachoengsao
+0734,Phetchaburi
+0735,Lop Buri
+0736,Prachin Buri
+0737,Nakhon Pathom
+0738,Bangkok
+0739,Bangkok
+0740,Nonthaburi
+0741,Bangkok
+0742,Bangkok
+0743,Bangkok
+0744,Pathum Thani
+0745,Samut Prakan
+0746,Ang Thong
+0747,Samut Prakan
+0748,Samut Songkhram
+0749,Pathum Thani
+0750,Chiang Mai
+0751,Bangkok
+0752,Bangkok
+0753,Samut Prakan
+0754,Bangkok
+0755,Chon Buri
+0756,Nakhon Sawan
+0757,Bangkok
+0758,Nonthaburi
+0759,Bangkok
+0760,Samut Prakan
+0761,Bangkok
+0762,Samut Prakan
+0763,Chon Buri
+0764,Bangkok
+0765,Pathum Thani
+0766,Phayao
+0767,Rayong
+0768,Samut Prakan
+0769,Pathum Thani
+0770,Ratchaburi
+0771,Lampang
+0772,Suphan Buri
+0773,Bangkok
+0774,Bangkok
+0775,Nakhon Pathom
+0776,Nonthaburi
+0777,Bangkok
+0778,Bangkok
+0779,Saraburi
+0780,Phitsanulok
+0781,Nonthaburi
+0782,Bangkok
+0783,Bangkok
+0784,Bangkok
+0785,Chanthaburi
+0786,Nonthaburi
+0787,Phetchaburi
+0788,Bangkok
+0789,Prachin Buri
+0790,Samut Sakhon
+0791,Samut Prakan
+0792,Kanchanaburi
+0793,Bangkok
+0794,Chiang Mai
+0795,Trat
+0796,Bangkok
+0797,Bangkok
+0798,Samut Prakan
+0799,Nakhon Pathom
+0800,Prachin Buri
+0801,Bangkok
+0802,Phitsanulok
+0803,Bangkok
+0804,Pathum Thani
+0805,Nonthaburi
+0806,Bangkok
+0807,Bangkok
+0808,Nonthaburi
+0809,Bangkok
+0810,Bangkok
+0811,Chiang Mai
+0812,Bangkok
+0813,Chon Buri
+0814,Chachoengsao
+0815,Bangkok
+0816,Pathum Thani
+0817,Bangkok
+0818,Bangkok
+0819,Nakhon Pathom
+0820,Bangkok
+0821,Bangkok
+0822,Bangkok
+0823,Lamphun
+0824,Bangkok
+0825,Kanchanaburi
+0826,Nakhon Pathom
+0827,Chachoengsao
+0828,Bangkok
+0829,Sing Buri
+0830,Bangkok
+0831,Suphan Buri
+0832,Bangkok
+0833,Samut Prakan
+0834,Sing Buri
+0835,Pathum Thani
+0836,Phetchaburi
+0837,Nonthaburi
+0838,Chiang Rai
+0839,Bangkok
+0840,Nakhon Pathom
+0841,Ratchaburi
+0842,Sing Buri
+0843,Samut Sakhon
+0844,Samut Prakan
+0845,Phra Nakhon Si Ayutthaya
+0846,Bangkok
+0847,Bangkok
+0848,Chiang Mai
+0849,Bangkok
+0850,Bangkok
+0851,Bangkok
+0852,Bangkok
+0853,Bangkok
+0854,Lop Buri
+0855,Phitsanulok
+0856,Pathum Thani
+0857,Bangkok
+0858,Bangkok
+0859,Bangkok
+0860,Bangkok
+0861,Pathum Thani
+0862,Chiang Mai
+0863,Suphan Buri
+0864,Bangkok
+0865,Nakhon Sawan
+0866,Nonthaburi
+0867,Bangkok
+0868,Bangkok
+0869,Nakhon Pathom
+0870,Bangkok
+0871,Bangkok
+0872,Phrae
+0873,Chiang Mai
+0874,Bangkok
+0875,Bangkok
+0876,Bangkok
+0877,Samut Prakan
+0878,Bangkok
+0879,Samut Prakan
+0880,Samut Prakan
+0881,Chiang Rai
+0882,Chiang Mai
+0883,Bangkok
+0884,Bangkok
+0885,Pathum Thani
+0886,Phitsanulok
+0887,Lampang
+0888,Bangkok
+0889,Bangkok
+0890,Bangkok
+0891,Nakhon Sawan
+0892,Samut Sakhon
+0893,Chai Nat
+0894,Bangkok
+0895,Bangkok
+0896,Trat
+0897,Nonthaburi
+0898,Chiang Mai
+0899,Nakhon Pathom
+0900,Bangkok
+0901,Nakhon Pathom
+0902,Bangkok
+0903,Bangkok
+0904,Samut Prakan
+0905,Bangkok
+0906,Nonthaburi
+0907,Chachoengsao
+0908,Kanchanaburi
+0909,Nakhon Pathom
+0910,Bangkok
+0911,Sukhothai
+0912,Chon Buri
+0913,Ang Thong
+0914,Nonthaburi
+0915,Pathum Thani
+0916,Bangkok
+0917,Bangkok
+0918,Bangkok
+0919,Nakhon Pathom
+0920,Pathum Thani
+0921,Bangkok
+0922,Phetchaburi
+0923,Ratchaburi
+0924,Samut Prakan
+0925,Ratchaburi
+0926,Nakhon Sawan
+0927,Bangkok
+0928,Bangkok
+0929,Bangkok
+0930,Bangkok
+0931,Bangkok
+0932,Bangkok
+0933,Nonthaburi
+0934,Chachoengsao
+0935,Bangkok
+0936,Samut Prakan
+0937,Bangkok
+0938,Bangkok
+0939,Kanchanaburi
+0940,Sukhothai
+0941,Chiang Rai
+0942,Bangkok
+0943,Lop Buri
+0944,Bangkok
+0945,Pathum Thani
+0946,Bangkok
+0947,Chiang Mai
+0948,Pathum Thani
+0949,Bangkok
+0950,Pathum Thani
+0951,Prachin Buri
+0952,Bangkok
+0953,Chiang Mai
+0954,Lampang
+0955,Bangkok
+0956,Samut Sakhon
+0957,Bangkok
+0958,Kanchanaburi
+0959,Phetchaburi
+0960,Nonthaburi
+0961,Bangkok
+0962,Bangkok
+0963,Bangkok
+0964,Samut Prakan
+0965,Chiang Mai
+0966,Bangkok
+0967,Rayong
+0968,Chiang Mai
+0969,Bangkok
+0970,Pathum Thani
+0971,Bangkok
+0972,Bangkok
+0973,Bangkok
+0974,Samut Prakan
+0975,Bangkok
+0976,Bangkok
+0977,Bangkok
+0978,Lop Buri
+0979,Chiang Rai
+0980,Bangkok
+0981,Nonthaburi
+0982,Chon Buri
+0983,Chiang Mai
+0984,Phayao
+0985,Bangkok
+0986,Chiang Mai
+0987,Bangkok
+0988,Bangkok
+0989,Bangkok
+0990,Bangkok
+0991,Chanthaburi
+0992,Phichit
+0993,Bangkok
+0994,Pathum Thani
+0995,Chiang Rai
+0996,Bangkok
+0997,Bangkok
+0998,Sing Buri
+0999,Chiang Rai
+1000,Bangkok
