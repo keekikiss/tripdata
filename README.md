@@ -14,6 +14,6 @@ How to run python file for Assignment
 	- export data to File CSV "province.csv" to "fpgrowth" folder
 	
 3. Go to folder "fpgrowth" and run file "fpgrowth.py" for answer 3
-	Q3: Which province pairs most often appear together in a trip?
-	A3: [{'Chanthaburi'}, {'Saraburi'}, {'Lampang'}, {'Chachoengsao'}, {'Ratchaburi'}, **{'Ratchaburi', 'Samut Sakhon'}**, {'Suphan Buri'}, {'Phra Nakhon Si Ayutthaya'}, **{'Phra Nakhon Si Ayutthaya', 'Pathum Thani'}**, {'Samut Prakan'}, {'Samut Sakhon'}, **{'Bangkok', 'Samut Sakhon'}**, **{'Nakhon Pathom', 'Samut Sakhon'}**, {'Nonthaburi'}, **{'Nonthaburi', 'Bangkok'}**, **{'Nonthaburi', 'Pathum Thani'}**, {'Bangkok'}, **{'Bangkok', 'Nakhon Pathom'}**, **{'Bangkok', 'Pathum Thani'}**, {'Nakhon Pathom'}, {'Pathum Thani'}]
+ 	Q3: Which province pairs most often appear together in a trip?
+ 	A3: [{'Chanthaburi'}, {'Saraburi'}, {'Lampang'}, {'Chachoengsao'}, {'Ratchaburi'}, **{'Ratchaburi', 'Samut Sakhon'}**, {'Suphan Buri'}, {'Phra Nakhon Si Ayutthaya'}, **{'Phra Nakhon Si Ayutthaya', 'Pathum Thani'}**, {'Samut Prakan'}, {'Samut Sakhon'}, **{'Bangkok', 'Samut Sakhon'}**, **{'Nakhon Pathom', 'Samut Sakhon'}**, {'Nonthaburi'}, **{'Nonthaburi', 'Bangkok'}**, **{'Nonthaburi', 'Pathum Thani'}**, {'Bangkok'}, **{'Bangkok', 'Nakhon Pathom'}**, **{'Bangkok', 'Pathum Thani'}**, {'Nakhon Pathom'}, {'Pathum Thani'}]
 freqItemSet, rules = **fpgrowth(output, minSupRatio=0.05, minConf=0.5)**
