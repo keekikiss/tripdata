@@ -126,6 +126,8 @@ for key, value in enumerate(ishometownarr):
     for sub_key, sub_value in enumerate(ishometownarr[value]):
       tempdata[key].extend([sub_value[0], sub_value[2], sub_value[2], sub_value[5], 'count: 1'])
 
+pp.pprint(tempdata)      
+      
 # open the file in the write mode
 with open('./fpgrowth/province.csv', 'w', encoding='UTF8', newline='') as f:
   # create the csv writer
